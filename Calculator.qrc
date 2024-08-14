@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>down-arrow.png</file>
+        <file>backspace_delete.ico</file>
     </qresource>
 </RCC>
